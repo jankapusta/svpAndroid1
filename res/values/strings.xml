@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SvpActivity!</string>
+    <string name="app_name">Svp0.3</string>
+     <string name="label">XXX</string>
+    <string name="messages_tab">Správy</string>
+    <string name="events_tab">Akcie</string>
+    <string name="news_tab">Články</string>
+    <string name="other_tab">...</string>
+    <string name="people_tab">Ľudia</string>
+    <string name="package_str">HEy hey</string>
+    <string name="loginText">Login:</string>
+    <string name="loginFailed">Zadal si zle prihlasovacie meno alebo heslo</string>
+    <string name="loginButton">Prihlas ma</string>
+    <string name="passwordText">Heslo</string>
+</resources>
